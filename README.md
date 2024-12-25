@@ -9,29 +9,46 @@
 - atiq-bs23
 
 ## Project Description
-The Sahol Enterprise Website is designed to streamline operations for a construction firm. It provides functionalities to showcase construction projects, facilitate tender submissions, and manage a supply chain system for construction materials with dynamic price updates. Built using modern web technologies, this platform serves as a professional, scalable solution to meet the current and future needs of the business.
+Introduction
+The proposed website for Sahol Enterprise aims to provide an online platform for showcasing construction projects, facilitating tender submissions, and managing a dynamic supply chain system. This platform will streamline operations, improve client interactions, and establish a foundation for future expansion into nationwide supply services.
 
-Key Features
-Construction Works Section
-
-Showcase images and descriptions of completed and ongoing projects.
+Objectives
+Create a user-friendly and responsive website to display construction projects.
+Implement a streamlined system for tender submission and management.
+Develop a scalable supply chain system for construction materials with real-time price updates and order management.
+Scope of Work
+1. Construction Works Section
+Features:
+A gallery showcasing images and descriptions of completed and ongoing projects.
 Contact form for inquiries and quotations.
-Tender Submission System
-
-Online tender submission with file upload capability.
-View and manage tender details.
-Integration-ready for E-GP (Electronic Government Procurement) systems.
-Supply Chain Management
-
-Real-time price updates for construction materials such as cement, rods, sand, and bricks.
-Delivery cost calculation based on the user’s location.
-Admin panel for managing inventory and price changes dynamically.
+Benefits:
+Highlights company expertise and portfolio.
+Simplifies communication with potential clients.
+2. Tender Dropping System
+Features:
+A tender submission form with file upload capability.
+Tender details section for viewing terms and requirements.
+Integration with E-GP (Electronic Government Procurement) systems.
+Benefits:
+Enables streamlined tender submission.
+Ensures secure and organized tender management.
+3. Supply Chain System
+Features:
+Product catalog with real-time price updates for materials like cement, rods, sand, and bricks.
+Delivery cost calculation (e.g., vehicle rental) based on the user’s location.
+Admin panel for dynamic price and inventory management.
+Benefits:
+Simplifies supply chain processes for clients.
+Provides flexibility for future expansion into nationwide delivery.
+Technical Specifications
 Tech Stack
-Frontend: HTML5, CSS3, JavaScript, Bootstrap
-Backend: ASP.NET Core MVC
-Database: SQL Server
-Hosting: Microsoft Azure / IIS
-Additional Tools: SignalR (Real-time updates), RESTful APIs
+Frontend:
+HTML5, CSS3, JavaScript, Bootstrap (Responsive Design)
+Backend:
+ASP.NET Core MVC (Scalable and high-performance web application framework)
+Database:
+SQL Server (Robust and secure database solution)
+
 
 
 ## Getting Started
