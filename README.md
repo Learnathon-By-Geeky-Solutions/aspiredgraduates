@@ -9,10 +9,9 @@
 - atiq-bs23
 
 ## Project Description
-Introduction
 The proposed website for Sahol Enterprise aims to provide an online platform for showcasing construction projects, facilitating tender submissions, and managing a dynamic supply chain system. This platform will streamline operations, improve client interactions, and establish a foundation for future expansion into nationwide supply services.
 
-Objectives
+# Objectives
 Create a user-friendly and responsive website to display construction projects.
 Implement a streamlined system for tender submission and management.
 Develop a scalable supply chain system for construction materials with real-time price updates and order management.
